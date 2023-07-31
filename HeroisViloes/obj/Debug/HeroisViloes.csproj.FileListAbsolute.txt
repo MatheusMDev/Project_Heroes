@@ -1,0 +1,97 @@
+C:\Users\Usuario\source\repos\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.Properties.Resources.resources
+C:\Users\Usuario\source\repos\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.csproj.CoreCompileInputs.cache
+C:\Users\20222271\Downloads\HeroisViloes\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.csproj.AssemblyReference.cache
+C:\Users\20222271\Downloads\HeroisViloes\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.Properties.Resources.resources
+C:\Users\20222271\Downloads\HeroisViloes\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.Menu.resources
+C:\Users\20222271\Downloads\HeroisViloes\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.csproj.GenerateResource.cache
+C:\Users\20222271\Downloads\HeroisViloes\HeroisViloes\HeroisViloes\obj\Debug\HeroisViloes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\bin\Debug\HeroisViloes.exe.config
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\bin\Debug\HeroisViloes.exe
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\bin\Debug\HeroisViloes.pdb
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.Properties.Resources.resources
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.AmigoHeroi.resources
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.Excluir.resources
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.Menu.resources
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.Pesquisar.resources
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.SuperHeroi.resources
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.Vilao.resources
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.exe
+C:\Users\Usuario\Downloads\att2\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.AmigoHeroi.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.Excluir.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.Menu.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.Pesquisar.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.SuperHeroi.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.View.Vilao.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\HeroisViloes.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\HeroisViloes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\HeroisViloes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\LanguageExt.Core.xml
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO\HeroisViloes\obj\Debug\HeroisViloes.csproj.CopyComplete
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\HeroisViloes.exe.config
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\HeroisViloes.exe
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\HeroisViloes.pdb
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Buffers.dll
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.ValueTuple.dll
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\LanguageExt.Core.xml
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.AssemblyReference.cache
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.Properties.Resources.resources
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.AmigoHeroi.resources
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.Excluir.resources
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.Menu.resources
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.Pesquisar.resources
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.SuperHeroi.resources
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.Vilao.resources
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.GenerateResource.cache
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.CoreCompileInputs.cache
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.CopyComplete
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.exe
+C:\Users\Lagoa\Downloads\att6\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\HeroisViloes.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\HeroisViloes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\HeroisViloes.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Memory.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\LanguageExt.Core.xml
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.AmigoHeroi.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.Excluir.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.Menu.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.Pesquisar.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.SuperHeroi.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.View.Vilao.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\PROJETO1 - Copia\HeroisViloes\obj\Debug\HeroisViloes.pdb
